@@ -1,7 +1,6 @@
 # Prosper Loan Dataset Exploration
 ## by Mohamed Sabry
 
-
 ## Dataset
 
 > Dataset is for prosper loan data contains of almost 114K record across 81 features. below you will find links for dataset itself as well as a detailed description dictionary
@@ -9,7 +8,6 @@
 [Link for the data set](https://s3.amazonaws.com/udacity-hosted-downloads/ud651/prosperLoanData.csv)
 
 [Link for a detailed description dictionary](http://www.transtats.bts.gov/Fields.asp?Table_ID=236)
-
 
 ## Summary of Findings
 
@@ -28,12 +26,7 @@
 
 > Also found a relation between owning a  home and getting a lower APR
 
-
-
-
 ## Key Insights for Presentation
-
-> Select one or two main threads from your exploration to polish up for your presentation. Note any changes in design from your exploration step here.
 
 > I Choose to foucus on the APR and some the factors that have a clear relationship with it such as Debt To Income Ratio, Prosper Rating, LoanOriginalAmount, Income Verifiable, Employment Status, Is Borrower Homeowner and Stated Monthly Income.
 
